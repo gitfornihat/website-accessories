@@ -849,6 +849,10 @@ footer .copyright{
         background-position: 55%;
     }
 
+    #hero h4, h2, p{
+        color: white;
+    }
+
     #feature{
         justify-content: space-between;
     }
