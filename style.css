@@ -848,8 +848,8 @@ footer .copyright{
         background-position: 55%;
     }
 
-    #hero h4,h2,p{
-        background-color: #fff;
+    #hero h4,h2,p {
+        color: white;
     }
 
     #feature{
