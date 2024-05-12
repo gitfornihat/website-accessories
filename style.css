@@ -842,14 +842,16 @@ footer .copyright{
     }
     h2{
         font-size: 32px;
+        color: #fff;
     }
+
+    h4, p{
+        color: #fff;
+    }
+
     #hero{
         padding: 0 20px;
         background-position: 55%;
-    }
-
-    #hero h4,h2,p {
-        color: white;
     }
 
     #feature{
