@@ -122,13 +122,14 @@ body{
     background-image: url("img/bckgrnd.jpg");
     height: 90vh;
     width: 100%;
-    background-size: contain;
-    background-position: top 25% right 0;
+    background-size: cover;
+    background-position: top 25%;
     padding: 0 80px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
+    background-repeat: no-repeat;
 }
 
 #hero h4{
@@ -845,7 +846,6 @@ footer .copyright{
     #hero{
         padding: 0 20px;
         background-position: 55%;
-        background-repeat: no-repeat;
     }
 
     #feature{
