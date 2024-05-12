@@ -845,6 +845,7 @@ footer .copyright{
     #hero{
         padding: 0 20px;
         background-position: 55%;
+        background-repeat: no-repeat;
     }
 
     #feature{
