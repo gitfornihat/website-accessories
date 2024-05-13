@@ -790,6 +790,10 @@ footer .copyright{
         background-position: top 30% right 30%;
     }
 
+    #hero h4, h2, p{
+        color: white;
+    }
+
     #feature {
         justify-content: center;
     }
